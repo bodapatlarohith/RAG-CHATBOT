@@ -179,7 +179,7 @@ video-rag-analyser/
 
 ### 🎥 Video Walkthrough
 
-https://github.com/user-attachments/assets/9e714b71-9d19-4ee8-be09-c2cbef62cda1
+[https://github.com/user-attachments/assets/9e714b71-9d19-4ee8-be09-c2cbef62cda1](https://github.com/user-attachments/assets/f07ebeb0-d860-4623-84aa-0ea63e3b83a8)
 
 ---
 
