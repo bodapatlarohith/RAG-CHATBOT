@@ -2,7 +2,6 @@
 
 > An AI-powered full stack application that analyses and compares two YouTube or Instagram videos using Retrieval-Augmented Generation (RAG). Paste two video URLs, and chat with an AI that knows everything about both videos — transcripts, engagement, hooks, hashtags, and more.
 
-![Video RAG Analyser](screenshots/home.png)
 
 ---
 
@@ -81,14 +80,6 @@ Help content creators and social media analysts compare video performance by com
 | **Streaming** | Server-Sent Events (SSE) |
 
 ---
-
-## 📸 Screenshots
-
-### Home — Enter Video URLs
-![Home Page](screenshots/home.png)
-
-### Analysis — Metrics + AI Chat
-![Analysis Page](screenshots/analysis.png)
 
 ---
 
