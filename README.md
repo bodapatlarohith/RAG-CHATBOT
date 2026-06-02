@@ -11,6 +11,9 @@ Help content creators and social media analysts compare video performance by com
 
 ---
 
+RAG
+<img width="579" height="610" alt="Image" src="https://github.com/user-attachments/assets/87610fca-2952-48df-80ae-b90b6563f78b" />
+
 ## ✨ Key Features
 
 - 🔗 **Multi-Platform Support** — Accepts YouTube and Instagram video URLs
