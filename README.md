@@ -171,7 +171,7 @@ video-rag-analyser/
 | `CHUNK_OVERLAP` | Overlap between chunks (default: 50) |
 
 ---
-
+<img width="1677" height="909" alt="Image" src="https://github.com/user-attachments/assets/3cd0f35a-79cc-47a6-a097-f668e23e8d6e" />
 ## 🙋 Author
 
 **Rohit**
