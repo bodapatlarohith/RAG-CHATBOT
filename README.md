@@ -2,7 +2,6 @@
 
 > An AI-powered full stack application that analyses and compares two YouTube or Instagram videos using Retrieval-Augmented Generation (RAG). Paste two video URLs, and chat with an AI that knows everything about both videos — transcripts, engagement, hooks, hashtags, and more.
 
-
 ---
 
 ## 📄 Project Overview
@@ -78,8 +77,6 @@ Help content creators and social media analysts compare video performance by com
 | **RAG Framework** | LangChain, LangChain-HuggingFace |
 | **Video Data** | yt-dlp, YouTube Transcript API |
 | **Streaming** | Server-Sent Events (SSE) |
-
----
 
 ---
 
@@ -171,11 +168,21 @@ video-rag-analyser/
 | `CHUNK_OVERLAP` | Overlap between chunks (default: 50) |
 
 ---
-DEMO VIDEO AND PHOTOS
-<img width="1677" height="909" alt="Image" src="https://github.com/user-attachments/assets/3cd0f35a-79cc-47a6-a097-f668e23e8d6e" />
-<img width="1679" height="923" alt="Image" src="https://github.com/user-attachments/assets/3e9d6d34-7e84-4597-8f5a-e65d42c08935" />
+
+## 📸 Demo — Screenshots & Video
+
+### Home Page — Enter Video URLs
+<img width="1677" height="909" alt="Home Page" src="https://github.com/user-attachments/assets/3cd0f35a-79cc-47a6-a097-f668e23e8d6e" />
+
+### Analysis Page — Metrics + AI Chat
+<img width="1679" height="923" alt="Analysis Page" src="https://github.com/user-attachments/assets/3e9d6d34-7e84-4597-8f5a-e65d42c08935" />
+
+### 🎥 Video Walkthrough
 
 https://github.com/user-attachments/assets/9e714b71-9d19-4ee8-be09-c2cbef62cda1
+
+---
+
 ## 🙋 Author
 
 **Rohit**
